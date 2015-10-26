@@ -11,6 +11,8 @@ published: true
 ---
 <img class="alignnone size-full wp-image-102" style="width: 100%;height: auto" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/07/thanksMomDad.jpg" alt="" />
 
+Here's an edit that I added through GitHub. Let's see what needs to happen in order for it to show up on the site.
+
 Haha! I just took over editing this page from Shelley Keith. She can't edit it anymore right now, because <em>I'm editing it</em>, instead.
 <!--more-->
 
