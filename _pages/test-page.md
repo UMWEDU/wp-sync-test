@@ -9,9 +9,10 @@ permalink: >
   http://umwwebmaster.staging.wpengine.com/test-page/
 published: true
 ---
-<img class="alignnone size-full wp-image-102" style="width: 100%; max-width: 100%; height: auto;" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/07/thanksMomDad.jpg" alt="" />
+<img class="alignnone size-full wp-image-102" style="width: 100%;height: auto" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/07/thanksMomDad.jpg" alt="" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Klaatu <b>barada nikto.</b> Donec ut lectus fermentum, ultrices felis eu, cursus magna. Nullam at erat vel quam rutrum convallis sed at nibh. Proin eu lacinia nisi. Maecenas pellentesque neque dolor, eget varius mauris tincidunt at. Cras facilisis arcu sit amet enim tristique imperdiet. Ut facilisis porta neque, finibus bibendum nunc tincidunt sit amet.<!--more-->
+Haha! I just took over editing this page from Shelley Keith. She can't edit it anymore right now, because <em>I'm editing it</em>, instead.
+<!--more-->
 
 Sed fermentum magna eget leo efficitur scelerisque. Nunc sodales laoreet elit, at mollis metus commodo ut. Donec pretium mattis sagittis. Proin quam massa, scelerisque a magna sed, ultricies elementum velit. Nulla at ante laoreet, dictum neque sit amet, luctus turpis. Donec finibus turpis non auctor rutrum. Donec non tellus eget nunc vehicula fermentum a quis metus. Vivamus ligula magna, ullamcorper ut ullamcorper et, ultricies sed nisl. Aliquam gravida velit eget odio laoreet, vel laoreet dui ornare. Integer sagittis eros ac tortor convallis posuere. Duis interdum aliquam elit at commodo. Cras id ultrices nisi. Phasellus consequat massa vel porta dignissim.
 
