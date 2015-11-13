@@ -19,8 +19,8 @@ Doesn't that sound like an awesome concept?
 <ul>
 	<li>The page slug and the page title do not match. How will that be handled?</li>
 	<li>There is no obvious way to include/upload images into a page through this process. That still has to be handled through WordPress</li>
-	<li>People aren't going to understand Markdown syntax; it would be nice to find a full-featured Markdown editor somewhere along the line.</li>
-	<li>People aren't going to understand how to use Git.</li>
+	<li>People aren't going to understand HTML syntax; we may need to provide them with some sort of WYSIWYG HTML editor (the plugin does not appear to use MD syntax, even though it uses the MD file extension)</li>
+	<li>People aren't going to understand how to use Git <em>(side note: If you push from a local source to the main remote repo, you then have to pull before doing anymore work)</em>.</li>
 	<li>We will need to investigate the possibility of managing post meta data, especially choosing an appropriate Genesis Page Layout when creating a new page.</li>
 </ul>
 <h2>Some positive aspects of this include:</h2>
