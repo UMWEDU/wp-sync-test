@@ -10,3 +10,5 @@ permalink: >
 published: true
 ---
 This is a sample page created within the WordPress dashboard. Let's see if we can edit it through GitHub or not.
+
+This is some extra text on the page that I added through the GitHub interface. It will be interesting to see how it gets handled.
