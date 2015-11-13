@@ -18,3 +18,5 @@ Some positive aspects of this include:
 1. We can more easily handle potential content conflicts, merging or optionally discarding bits and pieces of content within a page
 1. Obviously, we can much more easily track who made what changes to a page, no matter which interface they use to make those changes
 1. Infinite revisions can be stored, and potentially reverted
+1. We have the potential to sync content more easily between production and staging sites (we would need to fork the repo to use it on a staging site)
+1. We can potentially make multiple changes/commits locally before pushing the finalized produt to the site/remote repo
