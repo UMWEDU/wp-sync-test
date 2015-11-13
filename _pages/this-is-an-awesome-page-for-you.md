@@ -1,6 +1,12 @@
 ---
+ID: 427
 post_title: This Is An Awesome Page For You
+author: cgrymala
+post_date: 2015-11-13 11:41:11
+post_excerpt: ""
 layout: page
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/this-is-an-awesome-page-for-you/
 published: true
 ---
 This is going to be the greatest page ever published, since it was created inside of Atom and then pushed to our GitHub repo, which will then automatically sync it to our WordPress installation.
