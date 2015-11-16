@@ -34,3 +34,8 @@ Doesn't that sound like an awesome concept?
 	<li>We have the potential to sync content more easily between production and staging sites (we would need to fork the repo to use it on a staging site)</li>
 	<li>We can potentially make multiple changes/commits locally before pushing the finalized produt to the site/remote repo</li>
 </ol>
+<h2>Some things to investigate further</h2>
+<ol>
+	<li>Need to figure out how to properly manage custom post meta. While they plugin should automatically include "visible" (not prefixed by an underscore) meta data; it ignores all "hidden" meta data except for a few specific things.</li>
+	<li>Need to look into the new features that allow you to choose specific branches of a repo so you can manage content on development/production sites separately and, theoretically, merge the branches when you're ready to push from development to production.</li>
+</ol>
