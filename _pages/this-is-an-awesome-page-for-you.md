@@ -2,16 +2,18 @@
 ID: 427
 post_title: This Is An Awesome Page For You
 author:
-  - cgrymala
+  - 'a:1:{i:0;s:8:"cgrymala";}'
 post_date:
-  - 2015-11-13 11:41:11
+  - 'a:1:{i:0;s:19:"2015-11-13 11:41:11";}'
 post_excerpt:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 layout: page
 permalink:
-  - /this-is-an-awesome-page-for-you/
+  - 'a:1:{i:0;s:33:"/this-is-an-awesome-page-for-you/";}'
 published: true
 ---
+[caption id="attachment_428" align="alignright" width="225"]<img class="size-medium wp-image-428" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/11/5589665399_5d67bc6484_o-225x300.jpg" alt="" width="225" height="300" /> Adding a happy little photo to the awesome page. After all, everything is awesome![/caption]
+
 This is going to be the greatest page ever published, since it was created inside of Atom and then pushed to our GitHub repo, which will then automatically sync it to our WordPress installation.
 
 Doesn't that sound like an awesome concept?
