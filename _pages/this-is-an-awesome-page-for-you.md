@@ -11,6 +11,8 @@ layout: page
 permalink:
   - 'a:1:{i:0;s:33:"/this-is-an-awesome-page-for-you/";}'
 published: true
+_genesis_layout: sidebar-content
+_wp_page_template: default
 ---
 [caption id="attachment_428" align="alignright" width="225"]<img class="size-medium wp-image-428" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/11/5589665399_5d67bc6484_o-225x300.jpg" alt="" width="225" height="300" /> Adding a happy little photo to the awesome page. After all, everything is awesome![/caption]
 
@@ -38,4 +40,5 @@ Doesn't that sound like an awesome concept?
 <ol>
 	<li>Need to figure out how to properly manage custom post meta. While they plugin should automatically include "visible" (not prefixed by an underscore) meta data; it ignores all "hidden" meta data except for a few specific things.</li>
 	<li>Need to look into the new features that allow you to choose specific branches of a repo so you can manage content on development/production sites separately and, theoretically, merge the branches when you're ready to push from development to production.</li>
+	<li>Need to look more into the other options that are <a href="https://github.com/mAAdhaTTah/wordpress-github-sync/wiki/Customizing-WordPress-GitHub-Sync-with-Filters">available through filters in the plugin</a></li>
 </ol>
