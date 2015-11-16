@@ -1,15 +1,12 @@
 ---
 ID: 427
 post_title: This Is An Awesome Page For You
-author:
-  - 'a:1:{i:0;s:25:"a:1:{i:0;s:8:"cgrymala";}";}'
-post_date:
-  - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-11-13 11:41:11";}";}'
-post_excerpt:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
+author: cgrymala
+post_date: 2015-11-13 11:41:11
+post_excerpt: ""
 layout: page
-permalink:
-  - 'a:1:{i:0;s:51:"a:1:{i:0;s:33:"/this-is-an-awesome-page-for-you/";}";}'
+permalink: >
+  http://umwwebmaster.staging.wpengine.com/this-is-an-awesome-page-for-you/
 published: true
 _genesis_layout: full-width-content
 _wp_page_template: default
