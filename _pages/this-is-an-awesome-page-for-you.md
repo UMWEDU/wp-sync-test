@@ -39,4 +39,5 @@ Doesn't that sound like an awesome concept? It certainly does, to me.<!--more-->
 	<li>Need to figure out how to properly manage custom post meta. While they plugin should automatically include "visible" (not prefixed by an underscore) meta data; it ignores all "hidden" meta data except for a few specific things.</li>
 	<li>Need to look into the new features that allow you to choose specific branches of a repo so you can manage content on development/production sites separately and, theoretically, merge the branches when you're ready to push from development to production.</li>
 	<li>Need to look more into the other options that are <a href="https://github.com/mAAdhaTTah/wordpress-github-sync/wiki/Customizing-WordPress-GitHub-Sync-with-Filters">available through filters in the plugin</a></li>
+	<li>Something weird is going on with the post meta information. Formatting is getting messed up, and updating post meta without updating content seems to have no effect on the data that gets synced.</li>
 </ol>
