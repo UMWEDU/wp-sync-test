@@ -2,16 +2,16 @@
 ID: 427
 post_title: This Is An Awesome Page For You
 author:
-  - 'a:1:{i:0;s:8:"cgrymala";}'
+  - 'a:1:{i:0;s:25:"a:1:{i:0;s:8:"cgrymala";}";}'
 post_date:
-  - 'a:1:{i:0;s:19:"2015-11-13 11:41:11";}'
+  - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-11-13 11:41:11";}";}'
 post_excerpt:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 layout: page
 permalink:
-  - 'a:1:{i:0;s:33:"/this-is-an-awesome-page-for-you/";}'
+  - 'a:1:{i:0;s:51:"a:1:{i:0;s:33:"/this-is-an-awesome-page-for-you/";}";}'
 published: true
-_genesis_layout: sidebar-content-sidebar
+_genesis_layout: full-width-content
 _wp_page_template: default
 ---
 [caption id="attachment_428" align="alignright" width="225"]<img class="size-medium wp-image-428" src="http://umwwebmaster.staging.wpengine.com/wp-content/uploads/2015/11/5589665399_5d67bc6484_o-225x300.jpg" alt="" width="225" height="300" /> Adding a happy little photo to the awesome page. After all, everything is awesome![/caption]
