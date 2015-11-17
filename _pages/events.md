@@ -1,17 +1,18 @@
 ---
 ID: 200
 post_title: Upcoming Events
-author: Shelley Keith
-post_date: 2015-07-23 12:25:38
-post_excerpt: ""
+author:
+  - Shelley Keith
+post_date:
+  - 2015-07-23 12:25:38
+post_excerpt:
+  - ""
 layout: page
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/events/
+permalink:
+  - /events/
 published: true
 ---
-<script class="ai1ec-widget-placeholder" data-widget="ai1ec_superwidget" data-display_filters="true" data-action="posterboard">
-  (function(){var d=document,s=d.createElement('script'),
-  i='ai1ec-script';if(d.getElementById(i))return;s.async=1;
-  s.id=i;s.src='//at.umw.edu/?ai1ec_js_widget';
-  d.getElementsByTagName('head')[0].appendChild(s);})();
-</script>
+<script>(function(){var d=document,s=d.createElement('script'),
+i='ai1ec-script';if(d.getElementById(i))return;s.async=1;
+s.id=i;s.src='//at.umw.edu/?ai1ec_js_widget';
+d.getElementsByTagName('head')[0].appendChild(s);})();</script>
